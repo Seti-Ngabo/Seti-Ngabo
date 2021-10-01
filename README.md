@@ -1,3 +1,5 @@
+<img src="images/svg/header_en.svg"></img>
+
 ### Hi there 👋
 
 My name is Seti Ngabo and I'm a Computer Science student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.
