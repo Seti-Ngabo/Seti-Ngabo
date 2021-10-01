@@ -6,9 +6,7 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-### Hi there 👋
-
-My name is Seti Ngabo and I'm a Computer Science student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.
+## My name is Seti Ngabo and I'm a Computer Science student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.
 
 ##  Programming Languages
 
