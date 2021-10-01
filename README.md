@@ -28,10 +28,10 @@ My name is Seti Ngabo and I'm a Computer Science student at <a href="http://mths
 
 **About me**
 
-- 💼 I'm a competitive soccer player
+- ⚽️ I'm a competitive soccer player
 
 - 📈 Built github-repositories on GitHub
 
 - ❤️ I love Science and working with computers
 
-- ❤️ I love playing: basketball, Soccer and Hiking
+- 🏀 I love playing: basketball, Soccer, Hiking and rollerblading
