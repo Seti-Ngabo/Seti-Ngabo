@@ -36,10 +36,6 @@ My name is Seti Ngabo and I'm a student at <a href="http://mths.ca">St. Mother T
 
 **About me**
 
-- ⚽️ I'm a competitive soccer player
-
 - 📈 Built github-repositories on GitHub
 
 - ❤️ I love Science and working with computers
-
-- 🏀 I love playing: basketball, Soccer, Hiking and rollerblading
